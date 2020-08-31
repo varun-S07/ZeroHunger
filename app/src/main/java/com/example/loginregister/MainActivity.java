@@ -7,6 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.google.firebase.auth.FirebaseAuth;
+public void fun1(View view)
+{
+   
+}
 
 public class MainActivity extends AppCompatActivity {
 
